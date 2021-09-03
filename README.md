@@ -1,6 +1,8 @@
 # zheshang_zq_autorun
 浙商证券免费行情自动运行登录
 
+适用，目前最新版本：浙商证券通达信V6.40
+
 运行前：
 
   1. 修改 行情软件安装路径（zheshang_zq.py文件内，约定为：D:\new_zheshang\TdxW.exe）
